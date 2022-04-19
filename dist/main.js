@@ -1,0 +1,1 @@
+(()=>{const e=()=>{canvas.height=window.innerHeight,canvas.width=window.innerWidth};window.addEventListener("load",(()=>{document.querySelector("#canvas").getContext("2d"),e()})),window.addEventListener("resize",(()=>{e()}))})();
